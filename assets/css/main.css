@@ -1314,7 +1314,18 @@ input, select, textarea {
 				#header .logo .icon:before {
 					font-size: 2rem;
 				} */
-	
+		#header .myicon {
+			width: 5.5rem;
+			height: 5.5rem;
+			line-height: 5.5rem;
+			border: solid 1px #ffffff;
+			border-radius: 50%;
+			display: block;
+		}
+
+			#header .myicon .icon:before {
+				font-size: 1471px;
+			}
 
 		#header .idim1 {
 			width: 5.5rem;
