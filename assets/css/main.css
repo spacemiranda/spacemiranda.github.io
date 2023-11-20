@@ -174,16 +174,6 @@ input, select, textarea {
 		margin: 0 0 2rem 0;
 	}
 
-	myicon {
-		content:"";
-		background-image:img('imageforwebp.jpg');
-		width:100px;
-		height:100px;
-		display:inline-block;
-		background-position:center;
-		background-size:cover;
-	}
-
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
 		font-weight: 600;
