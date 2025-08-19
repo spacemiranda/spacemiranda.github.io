@@ -1318,8 +1318,8 @@ input, select, textarea {
 			width: 5.5rem;
 			height: 5.5rem;
 			line-height: 5.5rem;
-			border: solid 0px #ffffff;
-			border-radius: 0%;
+			border: solid 1px #ffffff;
+			border-radius: 5.5%;
 			display: block;
 		}
 
